@@ -24,4 +24,4 @@
 
 - 官網：https://yotron-ai.com
 - Email：info@yotron-ai.com
-- 台北中山區，要面對面就直接上門
+- 台北大安區，要面對面就直接上門
