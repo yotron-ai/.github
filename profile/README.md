@@ -30,6 +30,10 @@ Enterprise AI implementation · Forward Deployed Engineering · Taiwan
 
 將會議錄音轉成逐字稿的 Claude Code skill。使用 Whisper 在本機執行，音檔不外傳、不需要 API 金鑰；Apple Silicon 支援 MLX 加速，其他環境可使用 CPU 引擎。
 
+### [Plaud](https://github.com/yotron-ai/Plaud)
+
+優創業務通話與 Plaud 內部工具 repository，包含通話 Dashboard、AI 健檢流程、遠端 RAG 摘要與 FTS 查詢流程。RAG 批次在 Mac mini 使用 AGY 執行，保留 checkpoint、錯誤清單與離線 CI 測試；原始逐字稿、SQLite、摘要與認證資料不進 Git。
+
 ## 資源與聯絡
 
 - **官網**：[yotron-ai.com](https://yotron-ai.com)
